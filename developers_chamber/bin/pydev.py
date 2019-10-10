@@ -21,6 +21,7 @@ from developers_chamber.scripts.ecs import *
 from developers_chamber.scripts.git import *
 from developers_chamber.scripts.project import *
 from developers_chamber.scripts.version import *
+from developers_chamber.scripts.qa import *
 
 
 # Import external scripts
